@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond !important;
+}
+@media screen and (max-width:768px) {
+    body{
+        background-color: brown !important;
+    }
+}
+@media screen and (max-width:425px) {
+    body{
+        background-color: rgb(42, 165, 163) !important;
+    }
+}
